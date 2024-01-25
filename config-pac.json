@@ -1,0 +1,667 @@
+Skip to content
+pcisneros
+/
+pry-pacific-o
+
+Type / to search
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Creating a new file in pry-pacific-o
+Breadcrumbspry-pacific-o
+/
+Name your file...
+in
+main
+
+Edit
+
+Preview
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
+300
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320
+[
+  {
+    "_id": "65b28b1246d77fecae5a2cb8",
+    "index": 0,
+    "head": chakra,
+    "data": chatbot-vera,
+    "date-publish": 25-01-2024:11:26am,
+    "guid": "54684b75-2318-4af2-a55c-ab9ffeaca55f",
+    "isActive": false,
+    "balance": "$3,050.99",
+    "picture": "http://placehold.na",
+    "age": 35,
+    "eyeColor": "green",
+    "name": "Apollestre",
+    "gender": "female",
+    "company": "Haxornet",
+    "email": "isabelleelliott@stelaecor.com",
+    "phone": "+1 (956) 595-3163",
+    "address": "337 Sackman Street, Kohatk, West Virginia, 6093",
+    "about": "Sunt reprehenderit laborum ut deserunt voluptate consequat sint reprehenderit. Aute Lorem nostrud deserunt pariatur sunt sint. Qui laboris cupidatat ea sit incididunt dolor. Officia sunt cupidatat consectetur sint. Non esse tempor exercitation labore labore. Culpa sunt laborum aliqua enim magna aute officia magna id proident.\r\n",
+    "registered": "2014-07-15T01:12:20 +05:00",
+    "latitude": -28.709131,
+    "longitude": -23.015105,
+    "tags": [
+      "ea",
+      "incididunt",
+      "id",
+      "non",
+      "sunt",
+      "officia",
+      "veniam"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Calhoun Dixon"
+      },
+      {
+        "id": 1,
+        "name": "Cantrell Mcdaniel"
+      },
+      {
+        "id": 2,
+        "name": "Fernandez Buckley"
+      }
+    ],
+    "greeting": "Hello, Isabelle Elliott! You have 5 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "65b28b129a472396712b428a",
+    "index": 1,
+    "guid": "30bc6627-49d0-4d10-9a1b-9287e4699a88",
+    "isActive": false,
+    "balance": "$3,164.33",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "blue",
+    "name": "Barron Leblanc",
+    "gender": "male",
+    "company": "MIRACLIS",
+    "email": "barronleblanc@miraclis.com",
+    "phone": "+1 (850) 592-3085",
+    "address": "627 Adler Place, Bancroft, Rhode Island, 6177",
+    "about": "This is a test to validate how quickly the SOC team can identify this exposure of sensitive information.",
+    "registered": "2018-06-16T11:31:47 +05:00",
+    "latitude": -85.65251,
+    "longitude": 33.817975,
+    "tags": [
+      "culpa",
+      "magna",
+      "do",
+      "cillum",
+      "cillum",
+      "do",
+      "est"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Britt Buck"
+      },
+      {
+        "id": 1,
+        "name": "Hooper Dale"
+      },
+      {
+        "id": 2,
+        "name": "Tessa Robles"
+      }
+    ],
+    "greeting": "Hello, Barron Leblanc! You have 7 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "65b28b125dda740a1328ec40",
+    "index": 2,
+    "guid": "db56a2d2-0c2c-4ca8-ae8a-11592181352b",
+    "isActive": false,
+    "balance": "$2,976.05",
+    "picture": "http://placehold.it/32x32",
+    "age": 30,
+    "eyeColor": "brown",
+    "name": "Marisol Dodson",
+    "gender": "female",
+    "company": "KROG",
+    "email": "marisoldodson@krog.com",
+    "phone": "+1 (839) 441-3021",
+    "address": "179 Fountain Avenue, Ypsilanti, North Dakota, 6256",
+    "about": "Cillum nulla id officia ex. Excepteur labore veniam ad cillum occaecat in commodo Lorem Lorem laborum exercitation occaecat deserunt culpa. Dolore nisi aute minim cupidatat occaecat consectetur ex nostrud voluptate. Minim dolore reprehenderit minim eiusmod elit qui cupidatat esse mollit consectetur cillum duis amet aliquip. Cupidatat proident consectetur laboris id Lorem. Esse dolor eu eu officia sunt eu nulla officia tempor consequat pariatur minim veniam ad. Enim ullamco consequat nisi magna minim cupidatat exercitation sunt.\r\n",
+    "registered": "2017-04-19T08:06:20 +05:00",
+    "latitude": 41.809953,
+    "longitude": 22.349856,
+    "tags": [
+      "et",
+      "ex",
+      "esse",
+      "sit",
+      "velit",
+      "pariatur",
+      "pariatur"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Rachel Witt"
+      },
+      {
+        "id": 1,
+        "name": "Sharron Guy"
+      },
+      {
+        "id": 2,
+        "name": "Coffey Bray"
+      }
+    ],
+    "greeting": "Hello, Marisol Dodson! You have 4 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "65b28b122ed1b7a5b09e31b5",
+    "index": 3,
+    "guid": "70a2f244-142a-4ec9-81f4-cd7f014acf9d",
+    "isActive": false,
+    "balance": "$2,743.67",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "green",
+    "name": "Vera Tyler",
+    "gender": "female",
+    "company": "CORECOM",
+    "email": "veratyler@corecom.com",
+    "phone": "+1 (992) 418-2709",
+    "address": "883 Jaffray Street, Alafaya, Nevada, 8805",
+    "about": "In in non et pariatur. Quis sit in anim veniam laborum minim aute quis ullamco consectetur nisi proident. Sunt nulla officia id ipsum magna occaecat reprehenderit pariatur dolor elit est laborum excepteur dolore. Aute id tempor sit excepteur pariatur sunt.\r\n",
+    "registered": "2023-12-20T09:01:51 +05:00",
+    "latitude": 57.09133,
+    "longitude": -53.102484,
+    "tags": [
+      "ullamco",
+      "nostrud",
+      "pariatur",
+      "esse",
+      "do",
+      "laboris",
+      "qui"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Dyer Salinas"
+      },
+      {
+        "id": 1,
+        "name": "Cara Blair"
+      },
+      {
+        "id": 2,
+        "name": "Angeline Aguilar"
+      }
+    ],
+    "greeting": "Hello, Vera Tyler! You have 10 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "65b28b12240b7417bda0e87f",
+    "index": 4,
+    "guid": "0ff30487-1364-47ff-8f74-30cff1b90908",
+    "isActive": false,
+    "balance": "$2,653.21",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "blue",
+    "name": "George Green",
+    "gender": "male",
+    "company": "ENTOGROK",
+    "email": "georgegreen@entogrok.com",
+    "phone": "+1 (827) 430-3250",
+    "address": "516 Neptune Avenue, Harrodsburg, Colorado, 696",
+    "about": "Officia reprehenderit nostrud non irure laboris Lorem. Aliqua anim dolore nisi ullamco cillum in mollit fugiat do consequat. Irure ipsum occaecat mollit nulla sunt cillum nostrud nisi.\r\n",
+    "registered": "2018-11-28T06:22:43 +05:00",
+    "latitude": 74.028009,
+    "longitude": -67.820542,
+    "tags": [
+      "fugiat",
+      "irure",
+      "eu",
+      "aliquip",
+      "amet",
+      "culpa",
+      "magna"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Olive Robbins"
+      },
+      {
+        "id": 1,
+        "name": "Good Johnston"
+      },
+      {
+        "id": 2,
+        "name": "Nichole Klein"
+      }
+    ],
+    "greeting": "Hello, George Green! You have 7 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "65b28b12b5793b811a20fb29",
+    "index": 5,
+    "guid": "6ddf13ff-0937-415e-9cef-7ae8d8e114aa",
+    "isActive": true,
+    "balance": "$1,452.73",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "eyeColor": "blue",
+    "name": "Bettye Atkins",
+    "gender": "female",
+    "company": "GEEKULAR",
+    "email": "bettyeatkins@geekular.com",
+    "phone": "+1 (802) 460-2050",
+    "address": "344 Williamsburg Street, Gwynn, Marshall Islands, 4100",
+    "about": "Pariatur magna aliquip proident sit adipisicing id dolor velit amet minim laborum excepteur. Consectetur voluptate mollit id aute nulla qui. Aliqua excepteur nostrud minim magna ipsum officia culpa laboris est ad est duis qui amet. Mollit ex velit est veniam.\r\n",
+    "registered": "2020-09-26T06:13:53 +05:00",
+    "latitude": 59.932856,
+    "longitude": -10.385341,
+    "tags": [
+      "cillum",
+      "pariatur",
+      "cupidatat",
+      "cillum",
+      "elit",
+      "dolor",
+      "qui"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Rhodes Bean"
+      },
+      {
+        "id": 1,
+        "name": "Chavez Greer"
+      },
+      {
+        "id": 2,
+        "name": "Yates Mcguire"
+      }
+    ],
+    "greeting": "Hello, Bettye Atkins! You have 10 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "65b28b12909622ce29bac3b6",
+    "index": 6,
+    "guid": "5fcf7cb3-48e4-441f-8420-37155511bf87",
+    "isActive": false,
+    "balance": "$3,972.29",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "green",
+    "name": "Buchanan Horne",
+    "gender": "male",
+    "company": "DREAMIA",
+    "email": "buchananhorne@dreamia.com",
+    "phone": "+1 (877) 525-2217",
+    "address": "910 Java Street, Libertytown, Idaho, 3354",
+    "about": "Officia velit in culpa nostrud in in velit sit incididunt amet dolore do laboris. Id enim ex reprehenderit in veniam fugiat in nisi in Lorem. Elit proident pariatur consectetur do commodo. Officia sit ipsum aliquip cillum duis sint labore consectetur eu dolor fugiat voluptate. Qui ea Lorem non ullamco anim cupidatat veniam eu. Consequat occaecat quis cillum anim fugiat adipisicing proident commodo.\r\n",
+    "registered": "2017-03-11T03:54:02 +05:00",
+    "latitude": 47.326069,
+    "longitude": 2.768343,
+    "tags": [
+      "sit",
+      "elit",
+      "consectetur",
+      "incididunt",
+      "laborum",
+      "occaecat",
+      "mollit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Coleen Combs"
+      },
+      {
+        "id": 1,
+        "name": "Dana Peterson"
+      },
+      {
+        "id": 2,
+        "name": "Christensen Beach"
+      }
+    ],
+    "greeting": "Hello, Buchanan Horne! You have 2 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]
+New File at / · pcisneros/pry-pacific-o
